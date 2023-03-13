@@ -1,4 +1,4 @@
 # pac-man
-Pac-man projet develloped with Python and with pygame 
-This came from a video on the YouTube tech_paul. All my files to make this projet Pac-Man with the pictures and the code. 
-Please subscribe if you liked. 
+Pac-man project develloped in Python with pygame.
+This repository comes with all the files necessary to run the project including the pictures and the codes.
+Sorry for the quality of the code the project was made when I was a beginner. 
